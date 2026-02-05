@@ -1,4 +1,4 @@
-# 💎 Diamond Price Prediction | التنبؤ بأسعار الماس
+# 💎 Diamond Price Prediction
 
 <div align="center">
 
