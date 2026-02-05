@@ -6,7 +6,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-yellow.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green.svg)
-![License](https://img.shields.io/badge/License-MIT-red.svg)
+
 
 **A comprehensive machine learning project for predicting diamond prices using multiple algorithms including XGBoost and Deep Neural Networks**
 
